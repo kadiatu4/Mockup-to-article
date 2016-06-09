@@ -1,0 +1,25 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+New skills I have learned:
+*I learned how to use <br>(which only works in between texts) and <s> (which strikethrough words and sentence)
+*I learned that instead of putting space in between paragraphs (by double-space), you can instead use <p></p> which puts spacing in between each paragraph.
+
+What has been easy
+*adding images
+* adding hyperlinks
+* using <h1> <h2> <p> <em>
+
+What has been difficult
+* Changing links from Markdown into the <a href=“”></a> which was very difficult at first
+* Using <figure> and <figcaption> which I’m still confused about how to use it properly
+
+How have you used the problem solving strategies from the first project to overcome challenges so far?
+*When I was stuck I would either take a break to think my problem through or research (using MDN) to learn about each element and how to use it properly.
